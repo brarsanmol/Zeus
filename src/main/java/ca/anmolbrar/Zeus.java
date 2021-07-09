@@ -1,4 +1,4 @@
-package com.octavemc;
+package ca.anmolbrar;
 
 import lombok.AccessLevel;
 import lombok.Getter;

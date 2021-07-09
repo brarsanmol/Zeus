@@ -1,4 +1,4 @@
-package com.octavemc;
+package ca.anmolbrar;
 
 import lombok.Getter;
 import lombok.NonNull;

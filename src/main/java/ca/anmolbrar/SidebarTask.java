@@ -1,4 +1,4 @@
-package com.octavemc;
+package ca.anmolbrar;
 
 import org.bukkit.ChatColor;
 import org.bukkit.scheduler.BukkitRunnable;

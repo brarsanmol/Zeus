@@ -1,4 +1,4 @@
-package com.octavemc;
+package ca.anmolbrar;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

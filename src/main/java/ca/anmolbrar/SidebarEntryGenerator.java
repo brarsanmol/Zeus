@@ -1,4 +1,4 @@
-package com.octavemc;
+package ca.anmolbrar;
 
 import com.google.common.base.Preconditions;
 import org.bukkit.ChatColor;
